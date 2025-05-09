@@ -9,7 +9,7 @@ The dataset includes comprehensive information categorized into the following gr
 - **Demographics**: Includes details like the student's school, age, sex, and family size.
 - **Academic Factors**: Captures study time, past failures, grades, and other academic-related variables.
 - **Social Factors**: Involves aspects like family relationships, free time, and social activities such as going out.
-- **Health & Lifestyle**: Considers elements such as health status, alcohol consumption, and school absences.
+- **Health & Lifestyle**: Considers elements such as health status, alcohol consumption, and school absences. There are some more features.
 
 ## Usage
 
